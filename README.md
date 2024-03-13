@@ -37,7 +37,7 @@ The top left proposition has two incoming edges (one from the rephrase and the o
 
 ## Overview of our Shared Tasks
 
-## Overview of our Pre-Trained Models
+## Overview of our Pre-Trained Models
 
 ## Scripts and Demos
 
