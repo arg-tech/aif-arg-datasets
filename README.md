@@ -26,6 +26,12 @@ These relations are collectively known as S-nodes (because they are governed by 
 
 ![Alt text](aif-docs.png)
 
+The top left proposition has two incoming edges (one from the rephrase and the other from the rhetorical questioning, whereas the bottom left proposition has one incoming (asserting) and one outgoing (Default Rephrase).
+<br>
+
+<b>Directionality</b>: TAs only point downwards; MA and CA only point up; RA can point both up or down depending on where the conclusion and premise are; YAs go from the right- to left-hand side.
+
+
 
 ## Overview of the Available Datasets
 
