@@ -5,15 +5,26 @@ The repository containing links, descriptions and references for the datasets fr
 
 ##  Argument Interchange Format (AIF)
 
-The AIF as a data format is constructed as a practical dataformat  
-Inference Anchoring Theory (IAT) provides a theoretical scaffolding to handle dialogue and argument structures, and the relations between them. We use IAT in order to represent and understand the arguments people offer, often on public platforms, in order to develop insight into complex debates.
+The AIF as a data format is constructed as a practical dataformat for Inference Anchoring Theory (IAT). The theory provides a theoretical toolkit to handle dialogue and argument structures, and the relations between them. We use IAT in order to represent and understand the arguments people offer, often on public platforms, in order to develop insight into complex debates.
 
+<br> Simply speaking, AIF is a format for presenting text of a debate or an argument via the directed graph (see image below).
 
+<br>
+<br>
+The base elements of the AIF are  argumentative discourse units (ADUs). ADUs can be further classified into L- and I-nodes. L-nodes (<b>locutions</b>) contain a unprocessed text with the information of the speaker included as well. I-nodes (<b>information</b>) contain a content of the ADUs. Keep in mind that the mapping of L and I nodes is not precise one to one.
+<br>
+<br>
 
+Edges (incoming and outgoing) is the term used to describe the relations between the nodes.
+IAT has three types of relations:
 
-The smallest units of the IAT analysis are argumentative discourse units (ADUs). ADUs are typically directly analysed as locutions. Locutions are in the text boxes on the right of the graph structure and are known as L-nodes. ‘Edges’ (incoming and outgoing) is the term used to describe the relations, illocutionary forces, and Default Transitions (TAs) anchored in the nodes. Propositions are on the left-hand side and are reconstructed locutions, where linguistic features like anaphora, pronouns, and deixis are resolved.
-IAT has three types of relations: (i) relations between locutions in a dialogue, called transitions (TAs); (ii) relations between content (propositional content of locutions) and (iii) illocutionary connections that link locutions with their content. These relations are collectively known as S-nodes (because they are governed by schemes) and they typically connect propositions known as I-nodes (because they express information).
+*  relations between locutions in a dialogue, called transitions (TAs);
+*  relations between content (propositional content of locutions);
+*  illocutionary connections that link locutions with their content.
 
+These relations are collectively known as S-nodes (because they are governed by schemes) and they typically connect I-nodes.
+
+![Alt text](aif-docs.png)
 
 
 ## Overview of the Available Datasets
