@@ -17,9 +17,9 @@ All of our datasets follow the AIF format. You can see the explanation in [The F
 # Scripts and Tutorials
 
 # Overview of our Shared Tasks
-| Year | Task Name | Description |
-| --- | --- | --- |
-|2024|[DialAM-2024](http://dialam.arg.tech)|The first shared task in dialogue argument mining where argumentation and dialogue information is modelled together in a domain-independent framework. It consists of two sub-tasks: the identification of propositional (argumentative) relations, and the identification of illocutionary (speech act) relations.|
+| Task Name | Description |
+ --- | --- |
+|[DialAM-2024](http://dialam.arg.tech)|The first shared task in dialogue argument mining where argumentation and dialogue information is modelled together in a domain-independent framework. It consists of two sub-tasks: the identification of propositional (argumentative) relations, and the identification of illocutionary (speech act) relations.|
 
 # Overview of our Pre-Trained Models
 | Model | Description | Paper Reference |
