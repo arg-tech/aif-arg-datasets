@@ -6,6 +6,13 @@ The Centre for Argument Technology (ARG Tech) works in philosophical and linguis
 
 
 # Table of Contents 
+- [Available Datasets](#available-datasets)
+- [Scripts and Tutorials](#scripts-and-tutorials)
+- [Overview of our Shared Tasks](#overview-of-our-shared-tasks)
+- [Overview of our Pre-Trained Models](#overview-of-our-pre-trained-models)
+- [Scripts and Tutorials](#scripts-and-tutorials)
+- [Argument Interchange Format (AIF)](#argument-interchange-format-aif)
+- [Useful Links and Contacts](#useful-links-and-contacts)
 
 # Available Datasets
 All of our datasets follow the AIF format. You can see the explanation in [The Format Explanation Section](#argument-interchange-format-aif).
@@ -14,8 +21,6 @@ All of our datasets follow the AIF format. You can see the explanation in [The F
 | --- | --- | --- |  --- | --- | --- |
 |2022|QT30: A corpus of argument and conflict in broadcast debate| The corpus of analysed dialogical argumentation and broadcast political debate, using 30 episodes of BBC`s 'Question Time' from 2020 and 2021. Contains 19,842 utterances and 280,000 words.| [Link](https://corpora.aifdb.org/qt30) | [BibTeX](references/db732e60cc054949a08a9f37d8767690.bibtex) | [Paper Link](https://discovery.dundee.ac.uk/en/publications/qt30-a-corpus-of-argument-and-conflict-in-broadcast-debate) |
 
-
-# Scripts and Tutorials
 
 # Overview of our Shared Tasks
 | Task Name | Description |
@@ -28,7 +33,7 @@ All of our datasets follow the AIF format. You can see the explanation in [The F
 |[ArgumentMining-EN-ARI-AIF-RoBERTa_L](https://huggingface.co/raruidol/ArgumentMining-EN-ARI-AIF-RoBERTa_L)|Argument Mining model trained with English (EN) data for the Argument Relation Identification (ARI) task using the US2016 and the QT30 corpora.|[BibTeX](references/ruiz2021transformer.bibtex)|
 
 
-# Scripts and Demos
+# Scripts and Tutorials
 
 # Argument Interchange Format (AIF)
 
