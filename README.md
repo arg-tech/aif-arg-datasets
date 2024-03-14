@@ -10,13 +10,16 @@ The Centre for Argument Technology (ARG Tech) works in philosophical and linguis
 # Available Datasets
 All of our datasets follow the AIF format. You can see the explanation in [The Format Explanation Section](#argument-interchange-format).
 
-| Year | Dataset Name | Description | Donwload Link | Reference | Contanct |
+| Year | Dataset Name | Description | Donwload Link | Reference | Contact |
 | --- | --- | --- |  --- | --- | --- |
 
 
 # Scripts and Tutorials
 
 # Overview of our Shared Tasks
+| Year | Task Name | Description |
+| --- | --- | --- |
+|2024|[DialAM-2024](http://dialam.arg.tech)|The first shared task in dialogue argument mining where argumentation and dialogue information is modelled together in a domain-independent framework. It consists of two sub-tasks: the identification of propositional (argumentative) relations, and the identification of illocutionary (speech act) relations.|
 
 # Overview of our Pre-Trained Models
 
