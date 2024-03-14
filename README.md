@@ -8,7 +8,7 @@ The Centre for Argument Technology (ARG Tech) works in philosophical and linguis
 # Table of Contents 
 
 # Available Datasets
-All of our datasets follow the AIF format. You can see the explanation in [The Format Explanation Section](#argument-interchange-format).
+All of our datasets follow the AIF format. You can see the explanation in [The Format Explanation Section](#argument-interchange-format-aif).
 
 | Year | Dataset Name | Description | Donwload Link | Reference | Contact |
 | --- | --- | --- |  --- | --- | --- |
