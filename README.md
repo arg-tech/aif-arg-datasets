@@ -57,8 +57,10 @@ These relations are collectively known as S-nodes (because they are governed by 
 
 ![Alt text](aif-docs.png)
 
-Looks a bit complicated, isn`t it ? Well, lets break it down bit by bit. 
+Looks a bit complicated, isn`t it ?
+<br> Well, lets break it down bit by bit. <br>
 <br> From the beginning, we have L-nodes that are unformatted:
+<br>
 
 ![Alt text](step-1-aif.png)
 
