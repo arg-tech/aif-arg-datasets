@@ -22,6 +22,10 @@ All of our datasets follow the AIF format. You can see the explanation in [The F
 |2024|[DialAM-2024](http://dialam.arg.tech)|The first shared task in dialogue argument mining where argumentation and dialogue information is modelled together in a domain-independent framework. It consists of two sub-tasks: the identification of propositional (argumentative) relations, and the identification of illocutionary (speech act) relations.|
 
 # Overview of our Pre-Trained Models
+| Model | Description | Paper Reference |
+| --- | --- | --- |
+|[ArgumentMining-EN-ARI-AIF-RoBERTa_L](https://huggingface.co/raruidol/ArgumentMining-EN-ARI-AIF-RoBERTa_L)|Argument Mining model trained with English (EN) data for the Argument Relation Identification (ARI) task using the US2016 and the QT30 corpora.|[references/ruiz2021transformer.bibtex](BibTeX)|
+
 
 # Scripts and Demos
 
