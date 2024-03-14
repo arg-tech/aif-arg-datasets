@@ -10,8 +10,9 @@ The Centre for Argument Technology (ARG Tech) works in philosophical and linguis
 # Available Datasets
 All of our datasets follow the AIF format. You can see the explanation in [The Format Explanation Section](#argument-interchange-format-aif).
 
-| Year | Dataset Name | Description | Donwload Link | Reference | Contact |
+| Year | Dataset Name | Description | Donwload Link | Reference | Paper |
 | --- | --- | --- |  --- | --- | --- |
+|2022|QT30: A corpus of argument and conflict in broadcast debate| The corpus of analysed dialogical argumentation and broadcast political debate, using 30 episodes of BBC`s 'Question Time' from 2020 and 2021. Contains 19,842 utterances and 280,000 words.| [Link](https://corpora.aifdb.org/qt30) | [BibTeX](references/db732e60cc054949a08a9f37d8767690.bibtex) | [Paper Link](https://discovery.dundee.ac.uk/en/publications/qt30-a-corpus-of-argument-and-conflict-in-broadcast-debate) |
 
 
 # Scripts and Tutorials
