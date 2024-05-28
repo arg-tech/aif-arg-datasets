@@ -315,8 +315,6 @@ The keys are:
 # Useful Links and Contacts
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/company/arg-tech/))
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/arg-tech)https://github.com/arg-tech)
-&nbsp;
 [Our Website](https://www.arg.tech)
 <br>
 
